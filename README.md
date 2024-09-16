@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerrell, an <a href="https://linkedin.com/in/jerrell-jackson-33b327193/">Help Desk Support</a>☺</h1>
+<h1>Hi, I'm Jerrell, an <a href="https://linkedin.com/in/jerrell-jackson-33b327193/">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
