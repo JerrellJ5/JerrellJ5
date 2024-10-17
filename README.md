@@ -17,7 +17,7 @@
   - [Password Checker](https://github.com/JerrellJ5/Password-Checker/blob/main/README.md)
 
 <h1>👨‍💻 Enter Rwurl</h1>
-[Rwurl](https://jerrellj5.github.io/Rwurl/index.html)
+https://jerrellj5.github.io/Rwurl/index.html
 
 
 <h2>🤳Connect with me:</h2>
